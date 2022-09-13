@@ -7,8 +7,8 @@
 	>
 <channel>
 	<title>
-	Bình luận cho 	</title>
-	<atom:link href="https://phamphuctoan.github.io/mywordpress/comments/feed/" rel="self" type="application/rss+xml" />
+	Các phản hồi luận về: Gtour	</title>
+	<atom:link href="https://phamphuctoan.github.io/mywordpress/gtour/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phamphuctoan.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Tue, 13 Sep 2022 08:59:32 +0000</lastBuildDate>
